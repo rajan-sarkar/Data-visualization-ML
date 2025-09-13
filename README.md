@@ -43,7 +43,7 @@ Here are some of the plots created during the analysis:
    ![Bar Plot](screenshots/Bar_plot.png)
 
 6. **Count Plot** –  
-   ![Count Plot](screenshots/count_plot.png)
+   ![Count Plot](screenshots/plot1.png)
 
 7. **Pair Plot** –   
    ![KDE Plot](screenshots/Pair_plot.png)
