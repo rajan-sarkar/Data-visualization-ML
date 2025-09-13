@@ -67,4 +67,4 @@ Here are some of the plots created during the analysis:
 ## 🚀 How to Run the Project
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/indian-kids-screentime-2025.git
+   git clone https://github.com/rajan-sarkar/Data-visualization-ML.git
