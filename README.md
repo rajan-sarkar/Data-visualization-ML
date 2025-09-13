@@ -28,7 +28,7 @@ Here are some of the plots created during the analysis:
 
 1. **Pie Chart** –   
    ![Pie Chart](screenshots/pie_plot1.png)
-   ![Pie Chart](sceenshots/pie_plot2.png)
+   ![Pie Chart](screenshots/pie_plot2.png)
 
 2. **Box Plot** –  
    ![Box Plot](screenshots/Box_plot.png)
